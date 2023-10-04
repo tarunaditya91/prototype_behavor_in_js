@@ -1,0 +1,1 @@
+# prototype_behavor_in_js
